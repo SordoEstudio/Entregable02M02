@@ -1,5 +1,7 @@
 ------------------------------------
-Preentrega entregada (act) 22.06
-Pagina de error y github login/register
+Preentrega entregada (act) 16.07
+Reestructura de nuestro servidor
 
-REPOSITORIO DE PREENTREGAS
+EntregableReestructura 
+
+los.env estan en 'env.zip'
